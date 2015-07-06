@@ -6,7 +6,7 @@ It's basically a small quiz about Open Source and Free Software for 30 days (Obv
 
 ## Dependencies
 
-- [Okasha](http://www.ojuba.org/wiki/okasha)
+- [Okasha](http://www.ojuba.org/wiki/okasha/)
 - [SQLAlchemy](http://www.sqlalchemy.org)
 - [Elixir](https://pypi.python.org/pypi/Elixir)
 
